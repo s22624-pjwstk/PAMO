@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zjazd2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="jajowa_title">Jajówa</string>
+    <string name="jajowa_description">Klasyczna jajecznica na maśle to podstawa. Wystarczy na patelni roztopić masło, a następnie dodać zmieszane wcześniej w misce z solą oraz pieprzem jajka. Ciągle mieszając, czekamy, aż jajka się zetną w takim stopniu, jak lubimy</string>
+    <string name="tosty_title">Tosty</string>
+    <string name="tosty_description">Kromkę chleba smarujemy masłem, kładziemy szynkę, ser i ponownie szynkę. Przykrywamy drugą kromką posmarowaną masłem. Na głęboki talerz wbijamy jajka i doprawiamy je solą, pieprzem i chili. Tosty dokładnie obtaczamy w jajku i smażymy na rozgrzanym maśle aż do uzyskania złotego koloru.</string>
+</resources>
