@@ -56,7 +56,7 @@ public class DashboardFragment extends Fragment {
         resultTextView.setText("Your BMI is: " + bmi);
     }
 
-    private float calculateBMIValue(float weight, float height) {
+    public float calculateBMIValue(float weight, float height) {
         // Przeliczanie względem wzoru BMI
         return weight / (height * height);
     }

@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+import com.example.zjazd2.ui.dashboard.DashboardFragment;
+
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
@@ -15,3 +17,4 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
     }
 }
+
